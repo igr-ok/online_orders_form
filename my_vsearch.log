@@ -1,0 +1,11 @@
+ImmutableMultiDict([('phrase', 'shit'), ('letters', 'aeiou')])|127.0.0.1|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.72 Safari/537.36|{'i'}
+ImmutableMultiDict([('phrase', 'pizda'), ('letters', 'aeiou')])|127.0.0.1|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.72 Safari/537.36|{'i', 'a'}
+ImmutableMultiDict([('phrase', 'nahui'), ('letters', 'aeiou')])|127.0.0.1|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.72 Safari/537.36|{'i', 'a', 'u'}
+ImmutableMultiDict([('phrase', 'fgadfgadfhjsfhj'), ('letters', 'aeiou')])|127.0.0.1|Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36|{'a'}
+ImmutableMultiDict([('phrase', 'hj.gjk'), ('letters', 'aeiou')])|127.0.0.1|Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36|set()
+ImmutableMultiDict([('phrase', 'hj.gjktuldyul'), ('letters', 'aeiou')])|127.0.0.1|Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36|{'u'}
+ImmutableMultiDict([('phrase', 'jfghkgfykgyk'), ('letters', 'aeiou')])|127.0.0.1|Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36|set()
+ImmutableMultiDict([('phrase', 'dhdjdhjdj'), ('letters', 'aeiou')])|127.0.0.1|Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36|set()
+ImmutableMultiDict([('phrase', 'prostitutku'), ('letters', 'moscow улица горького 89246664455')])|127.0.0.1|Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36|{'o', 's'}
+ImmutableMultiDict([('phrase', 'kak obichno'), ('letters', 'moscow улица горького 89246664455')])|127.0.0.1|Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36|{'c', ' ', 'o'}
+ImmutableMultiDict([('phrase', 'prostitutku'), ('letters', 'moscow улица горького 89246664455')])|127.0.0.1|Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36|{'s', 'o'}
